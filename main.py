@@ -1,10 +1,6 @@
 """
 
-Python Project #3
-CS 1030
-
 @Author: Brady Miner
-@Version: Temperature Conversion Table
 
 This program will display a temperature conversion table for degrees Celsius to Fahrenheit from 0-100 degrees
 in multiples of 10.
